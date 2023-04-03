@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reflection-sphere-three/static/css/main.36c2f7d8.css",
+    "main.js": "/reflection-sphere-three/static/js/main.072bce90.js",
+    "static/js/787.c1112931.chunk.js": "/reflection-sphere-three/static/js/787.c1112931.chunk.js",
+    "index.html": "/reflection-sphere-three/index.html",
+    "main.36c2f7d8.css.map": "/reflection-sphere-three/static/css/main.36c2f7d8.css.map",
+    "main.072bce90.js.map": "/reflection-sphere-three/static/js/main.072bce90.js.map",
+    "787.c1112931.chunk.js.map": "/reflection-sphere-three/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c2f7d8.css",
+    "static/js/main.072bce90.js"
+  ]
+}
